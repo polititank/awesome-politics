@@ -1,25 +1,22 @@
-# Contribution Guidelines
+# Diretrizes de Contribuição
 
-Please note that this project is released with a
-[Contributor Code of Conduct](code-of-conduct.md). By participating in this
-project you agree to abide by its terms.
+Por favor, note que este projecto tem um
+[Pacto de Código de Conduta para Colaboradores](code-of-conduct.md). Ao participar neste
+projecto você concorda em cumprir com os seus termos.
 
 ---
 
-Ensure your pull request adheres to the following guidelines:
+Certifique-se de que sua solicitação está de acordo com as seguintes diretrizes:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Certifique-se de tratar disto
+- E isto também
+- E não se esqueça de verificar isto
 
-Thank you for your suggestions!
-
+Obrigado pelas suas sugestões!
 
 ## Updating your PR
 
-A lot of times, making a PR adhere to the standards above can be difficult.
-If the maintainers notice anything that we'd like changed, we'll ask you to
-edit your PR before we merge it. There's no need to open a new PR, just edit
-the existing one. If you're not sure how to do that,
-[here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md)
-on the different ways you can update your PR so that we can merge it.
+Muitas vezes, pode ser difícil fazer um PR seguir os padrões acima.
+Se os administradores se aperceberem de algo que gostariam de mudar, pediremos
+que edite o PR antes de este ser aceite. Não há necessidade de abrir um novo PR, edite apenas o existente. Se não tem a certeza de como fazer isto, [aqui está um manual](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md)
+sobre as diferentes maneiras de atualizar o PR para que possa ser aceite.
