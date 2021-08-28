@@ -5,34 +5,55 @@
 ## Conteúdo
 
 - [Bases de Dados](#bases-de-dados)
+- [Biblioteca](#biblioteca)
 - [Livros](#livros)
 - [Podcasts](#podcasts)
 - [Projectos](#projectos)
 - [Redes Sociais](#redes-sociais)
-- [Vídeos](#videos)
+- [Videos](#videos)
 - [Diversos](#diversos)
 
 ## Bases de Dados
 
 - [PORDATA](https://www.pordata.pt/)
 
-## Livros
+## Biblioteca
+
+### Comece aqui a Introdução à Política
+
+- [Introdução à Ciência Política: Teorias, Métodos e Temáticas](https://www.goodreads.com/book/show/18397436-introdu-o-ci-ncia-pol-tica)
+- [Curso de Ciência Política](https://www.wook.pt/livro/curso-de-ciencia-politica-gianfranco-pasquino/4042597)
+- [Reinventar a Democracia](https://www.goodreads.com/book/show/25862711-reinventar-a-democracia?ac=1&from_search=true&qid=0n8VaBkfd3&rank=1)
+- [História da Filosofia Política](https://www.wook.pt/livro/historia-da-filosofia-politica-joao-cardoso-rosas/24190059)
+- [Manual da Teoria Política Aplicada](https://www.wook.pt/livro/manual-de-teoria-politica-aplicada-orlando-vitorino/4299597)
+
+#### Liberalismo
+
+-[Biblioteca +Mais Liberdade] (https://maisliberdade.pt/biblioteca/)
+
+
+### Livros Diversos em Português
 
 - [A força das Ideias: Histórias de uma eleição](https://www.goodreads.com/book/show/56313762-a-for-a-das-ideias)
 - [A Grande Escolha - Mundo Global ou Países Fechados?](https://www.goodreads.com/book/show/55606199-a-grande-escolha---mundo-global-ou-pa-ses-fechados)
 - [A República à Deriva](https://www.goodreads.com/book/show/55951697-a-rep-blica-deriva)
 - [Descentralização e Poder Local em Portugal](https://www.goodreads.com/book/show/56924620-descentraliza-o-e-poder-local-em-portugal)
 - [Esquerda e Direita: Guia Histórico Para o Século XXI](https://www.goodreads.com/book/show/25739364-esquerda-e-direita)
-- [Introdução à Ciência Política: Teorias, Métodos e Temáticas](https://www.goodreads.com/book/show/18397436-introdu-o-ci-ncia-pol-tica)
 - [O Economista Insurgente](https://www.goodreads.com/book/show/22665203-o-economista-insurgente)
 - [O Pequeno Livro Negro da Corrupção](https://www.goodreads.com/book/show/55252675-o-pequeno-livro-negro-da-corrup-o)
 - [Três retratos: Salazar, Cunhal, Soares](https://www.goodreads.com/book/show/54269622-tr-s-retratos)
 
 ## Podcasts
 
+#### Portugal 
+
 - [Gabinete de Crise](https://polititank.pt/tags/gabinete-de-crise/)
 - [Podcast Conversa](https://www.instagram.com/podcast_conversa/)
 - [World on the Rocks](https://twitter.com/WorldRocksPod)
+
+#### Internacional
+
+- [The Economist](https://www.economist.com/podcasts)
 
 ## Projectos
 
@@ -69,8 +90,10 @@
 - [Partido Socialista](https://twitter.com/psocialista)
 - [PCP](https://twitter.com/pcp_pt)
 - [PSD](https://twitter.com/ppdpsd)
+- [Volt](https://twitter.com/VoltPortugal)
+- [CDS](https://twitter.com/_CDSPP)
 
-## Vídeos
+## Videos
 
 - [Jordan B Peterson - Português](https://www.youtube.com/c/JordanBPetersonPortugu%C3%AAs)
 
