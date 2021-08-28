@@ -32,6 +32,7 @@
 
 - [Gabinete de Crise](https://polititank.pt/tags/gabinete-de-crise/)
 - [Podcast Conversa](https://www.instagram.com/podcast_conversa/)
+- [World on the Rocks](https://twitter.com/WorldRocksPod)
 
 ## Projectos
 
