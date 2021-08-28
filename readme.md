@@ -6,11 +6,10 @@
 
 - [Bases de Dados](#bases-de-dados)
 - [Biblioteca](#biblioteca)
-- [Livros](#livros)
 - [Podcasts](#podcasts)
 - [Projectos](#projectos)
 - [Redes Sociais](#redes-sociais)
-- [Videos](#videos)
+- [Vídeos](#vídeos)
 - [Diversos](#diversos)
 
 ## Bases de Dados
@@ -20,16 +19,19 @@
 ## Biblioteca
 
 ### Comece aqui a Introdução à Política
+> Estão por ordem de dificuldade, começando por livros introdutórios, depois cursos e conceitos aprofundados
 
 - [Introdução à Ciência Política: Teorias, Métodos e Temáticas](https://www.goodreads.com/book/show/18397436-introdu-o-ci-ncia-pol-tica)
-- [Curso de Ciência Política](https://www.wook.pt/livro/curso-de-ciencia-politica-gianfranco-pasquino/4042597)
 - [Reinventar a Democracia](https://www.goodreads.com/book/show/25862711-reinventar-a-democracia?ac=1&from_search=true&qid=0n8VaBkfd3&rank=1)
+- [Curso de Ciência Política](https://www.wook.pt/livro/curso-de-ciencia-politica-gianfranco-pasquino/4042597)
 - [História da Filosofia Política](https://www.wook.pt/livro/historia-da-filosofia-politica-joao-cardoso-rosas/24190059)
 - [Manual da Teoria Política Aplicada](https://www.wook.pt/livro/manual-de-teoria-politica-aplicada-orlando-vitorino/4299597)
 
+> Bibliotecas Especializadas
+
 #### Liberalismo
 
--[Biblioteca +Mais Liberdade] (https://maisliberdade.pt/biblioteca/)
+- [Biblioteca: Instituto +Mais Liberdade](https://maisliberdade.pt/biblioteca/)
 
 
 ### Livros Diversos em Português
@@ -45,13 +47,13 @@
 
 ## Podcasts
 
-#### Portugal 
+### Portugal 
 
 - [Gabinete de Crise](https://polititank.pt/tags/gabinete-de-crise/)
 - [Podcast Conversa](https://www.instagram.com/podcast_conversa/)
 - [World on the Rocks](https://twitter.com/WorldRocksPod)
 
-#### Internacional
+### Internacional
 
 - [The Economist](https://www.economist.com/podcasts)
 
@@ -93,7 +95,7 @@
 - [Volt](https://twitter.com/VoltPortugal)
 - [CDS](https://twitter.com/_CDSPP)
 
-## Videos
+## Vídeos
 
 - [Jordan B Peterson - Português](https://www.youtube.com/c/JordanBPetersonPortugu%C3%AAs)
 
