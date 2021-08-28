@@ -76,15 +76,16 @@
 ## Diversos
 
 - [Partidos Políticos](https://www.cne.pt/content/partidos-politicos-1)
+- [Eleições - Resultados dos Escrutínios Provisórios](https://www.eleicoes.mai.gov.pt/)
+- [Assembleia da República](https://www.parlamento.pt/)
+- [Debate Mário Soares/Álvaro Cunhal – Parte I](https://arquivos.rtp.pt/conteudos/debate-mario-soares-alvaro-cunhal-parte-i/)
+- [Debate Mário Soares/Álvaro Cunhal – Parte II](https://arquivos.rtp.pt/conteudos/debate-mario-soares-alvaro-cunhal-parte-ii/)
 - [Catarina Martins](https://twitter.com/catarina_mart)
 - [João Cotrim Figueiredo](https://twitter.com/jcf_liberal)
 - [André Ventura](https://twitter.com/AndreCVentura)
 - [António Costa](https://twitter.com/antoniocostaps)
 - [Rui Rio](https://twitter.com/RuiRioPSD)
 - [Inês de Sousa Real](https://twitter.com/lnes_Sousa_Real)
-- [Assembleia da República](https://www.parlamento.pt/)
-- [Debate Mário Soares/Álvaro Cunhal – Parte I](https://arquivos.rtp.pt/conteudos/debate-mario-soares-alvaro-cunhal-parte-i/)
-- [Debate Mário Soares/Álvaro Cunhal – Parte II](https://arquivos.rtp.pt/conteudos/debate-mario-soares-alvaro-cunhal-parte-ii/)
 
 ## Contribuir
 
