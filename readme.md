@@ -87,6 +87,7 @@
 - [António Costa](https://twitter.com/antoniocostaps)
 - [Rui Rio](https://twitter.com/RuiRioPSD)
 - [Inês de Sousa Real](https://twitter.com/lnes_Sousa_Real)
+- [Socialism101.com](https://www.socialism101.com/portugues-do-brasil)
 
 ## Contribuir
 
