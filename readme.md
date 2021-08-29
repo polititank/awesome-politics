@@ -20,10 +20,10 @@
 
 ### Introdução à Política
 
-> Comece aqui a Introdução à Política. Estão por ordem de dificuldade, começando por livros introdutórios, depois cursos e conceitos aprofundados
+> Comece aqui a Introdução à Política. Estão por ordem de dificuldade, começando por livros introdutórios, depois cursos e conceitos aprofundados.
 
 - [Introdução à Ciência Política: Teorias, Métodos e Temáticas](https://www.goodreads.com/book/show/18397436-introdu-o-ci-ncia-pol-tica)
-- [Reinventar a Democracia](https://www.goodreads.com/book/show/25862711-reinventar-a-democracia?ac=1&from_search=true&qid=0n8VaBkfd3&rank=1)
+- [Reinventar a Democracia](https://www.goodreads.com/book/show/25862711-reinventar-a-democracia)
 - [Curso de Ciência Política](https://www.wook.pt/livro/curso-de-ciencia-politica-gianfranco-pasquino/4042597)
 - [História da Filosofia Política](https://www.wook.pt/livro/historia-da-filosofia-politica-joao-cardoso-rosas/24190059)
 - [Manual da Teoria Política Aplicada](https://www.wook.pt/livro/manual-de-teoria-politica-aplicada-orlando-vitorino/4299597)
@@ -32,7 +32,7 @@
 
 #### Liberalismo
 
-- [Biblioteca: Instituto +Mais Liberdade](https://maisliberdade.pt/biblioteca/)
+- [Biblioteca - Instituto +Liberdade](https://maisliberdade.pt/biblioteca/)
 
 ### Livros Diversos em Português
 
