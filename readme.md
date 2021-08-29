@@ -18,8 +18,9 @@
 
 ## Biblioteca
 
-### Comece aqui a Introdução à Política
-> Estão por ordem de dificuldade, começando por livros introdutórios, depois cursos e conceitos aprofundados
+### Introdução à Política
+
+> Comece aqui a Introdução à Política. Estão por ordem de dificuldade, começando por livros introdutórios, depois cursos e conceitos aprofundados
 
 - [Introdução à Ciência Política: Teorias, Métodos e Temáticas](https://www.goodreads.com/book/show/18397436-introdu-o-ci-ncia-pol-tica)
 - [Reinventar a Democracia](https://www.goodreads.com/book/show/25862711-reinventar-a-democracia?ac=1&from_search=true&qid=0n8VaBkfd3&rank=1)
@@ -27,12 +28,11 @@
 - [História da Filosofia Política](https://www.wook.pt/livro/historia-da-filosofia-politica-joao-cardoso-rosas/24190059)
 - [Manual da Teoria Política Aplicada](https://www.wook.pt/livro/manual-de-teoria-politica-aplicada-orlando-vitorino/4299597)
 
-> Bibliotecas Especializadas
+### Bibliotecas Especializadas
 
 #### Liberalismo
 
 - [Biblioteca: Instituto +Mais Liberdade](https://maisliberdade.pt/biblioteca/)
-
 
 ### Livros Diversos em Português
 
@@ -85,6 +85,7 @@
 ### Twitter
 
 - [Bloco de Esquerda](https://twitter.com/blocodeesquerda)
+- [CDS](https://twitter.com/_CDSPP)
 - [CHEGA!](https://twitter.com/PartidoCHEGA)
 - [Iniciativa Liberal](https://twitter.com/liberalpt)
 - [Os Verdes](https://twitter.com/OsVerdes)
@@ -93,7 +94,6 @@
 - [PCP](https://twitter.com/pcp_pt)
 - [PSD](https://twitter.com/ppdpsd)
 - [Volt](https://twitter.com/VoltPortugal)
-- [CDS](https://twitter.com/_CDSPP)
 
 ## Vídeos
 
