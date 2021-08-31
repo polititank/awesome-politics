@@ -14,6 +14,7 @@
 
 ## Bases de Dados
 
+- [dados.gov](https://dados.gov.pt/pt/)
 - [PORDATA](https://www.pordata.pt/)
 
 ## Biblioteca
@@ -23,6 +24,7 @@
 > Comece aqui a Introdução à Política. Estão por ordem de dificuldade, começando por livros introdutórios, depois cursos e conceitos aprofundados.
 
 - [Introdução à Ciência Política: Teorias, Métodos e Temáticas](https://www.goodreads.com/book/show/18397436-introdu-o-ci-ncia-pol-tica)
+- [Introdução à Filosofia Política](https://www.wook.pt/livro/introducao-a-filosofia-politica-jonathan-wolff/59963)
 - [Reinventar a Democracia](https://www.goodreads.com/book/show/25862711-reinventar-a-democracia)
 - [Curso de Ciência Política](https://www.wook.pt/livro/curso-de-ciencia-politica-gianfranco-pasquino/4042597)
 - [História da Filosofia Política](https://www.wook.pt/livro/historia-da-filosofia-politica-joao-cardoso-rosas/24190059)
@@ -47,10 +49,12 @@
 
 ## Podcasts
 
-### Portugal 
+### Portugal
 
+- [Comissão Política - Expresso](https://expresso.pt/podcasts/comissao-politica)
 - [Gabinete de Crise](https://polititank.pt/tags/gabinete-de-crise/)
 - [Podcast Conversa](https://www.instagram.com/podcast_conversa/)
+- [Poder Público](https://www.publico.pt/poder-publico-podcast)
 - [World on the Rocks](https://twitter.com/WorldRocksPod)
 
 ### Internacional
@@ -62,7 +66,13 @@
 ### Associações
 
 - [Associação Participar+](https://www.participarmais.pt/)
+- [Frente Cívica](https://frentecivica.com/)
 - [SEDES](https://sedes.pt/)
+- [Transparência e Integridade](https://transparencia.pt/)
+
+### Eventos
+
+- [Festival Política](https://festivalpolitica.pt/)
 
 ### Fundações
 
@@ -117,4 +127,3 @@
 ## Contribuir
 
 Contribuições são bem-vindas! Por favor, leia as [diretrizes de contribuição](contributing.md) primeiro.
-
