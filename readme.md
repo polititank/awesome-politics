@@ -243,6 +243,7 @@ página da [Comissão Nacional de Eleições](https://www.cne.pt/content/partido
 - [Assembleia da República](https://www.parlamento.pt/)
 - [Bússola Política](https://www.bussolapolitica.org/)
 - [Diário da República Eletrónico](https://dre.pt/)
+- [Orçamento Participativo Portugal](https://www.facebook.com/OrcamentoParticipativoPortugal)
 - [Socialism101.com](https://www.socialism101.com/portugues-do-brasil)
 
 - [Catarina Martins](https://twitter.com/catarina_mart)
