@@ -180,6 +180,7 @@ página da [Comissão Nacional de Eleições](https://www.cne.pt/content/partido
 
 ### Associações
 
+- [Associação D3 - Defesa dos Direitos Digitais](https://www.direitosdigitais.pt/)
 - [Associação Participar+](https://www.participarmais.pt/)
 - [Fórum Manifesto](https://blog.manifesto.com.pt/)
 - [Frente Cívica](https://frentecivica.com/)
@@ -241,6 +242,7 @@ página da [Comissão Nacional de Eleições](https://www.cne.pt/content/partido
 
 - [Assembleia da República](https://www.parlamento.pt/)
 - [Bússola Política](https://www.bussolapolitica.org/)
+- [Diário da República Eletrónico](https://dre.pt/)
 - [Socialism101.com](https://www.socialism101.com/portugues-do-brasil)
 
 - [Catarina Martins](https://twitter.com/catarina_mart)
