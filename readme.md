@@ -6,6 +6,7 @@
 
 - [Bases de Dados](#bases-de-dados)
 - [Biblioteca](#biblioteca)
+- [Cursos Online](#cursos-online)
 - [Debates](#debates)
 - [Documentários](#documentários)
 - [Entrevistas](#entrevistas)
@@ -110,6 +111,15 @@
 
 - [Science Fictions: The Epidemic of Fraud, Bias, Negligence and Hype in Science](https://www.goodreads.com/book/show/52199285-science-fictions?from_search=true&from_srp=true&qid=3HUfLFvQfB&rank=10)
 
+## Cursos Online
+
+### Em Inglês
+
+- [Introduction to Political Philosophy with Steven B. Smith](https://youtube.com/playlist?list=PL8D95DEA9B7DFE825)
+- [Political Science 30: Politics and Strategy, UCLA](https://youtube.com/playlist?list=PLF420ADB3E328425A)
+- [Power and Politics in Today’s World](https://youtube.com/playlist?list=PLh9mgdi4rNeyViG2ar68jkgEi4y6doNZy)
+- [The Moral Foundations of Politics with Ian Shapiro](https://youtube.com/playlist?list=PL2FD48CE33DFBEA7E)
+
 ## Debates
 
 - [Debate Mário Soares/Álvaro Cunhal – Parte I](https://arquivos.rtp.pt/conteudos/debate-mario-soares-alvaro-cunhal-parte-i/)
@@ -190,6 +200,7 @@ página da [Comissão Nacional de Eleições](https://www.cne.pt/content/partido
 
 - [Avante!](https://www.avante.pt/)
 - [Festival Política](https://festivalpolitica.pt/)
+- [Leadership Summit Portugal](https://www.leadershipsummitportugal.com/)
 
 ### Fundações
 
@@ -242,6 +253,7 @@ página da [Comissão Nacional de Eleições](https://www.cne.pt/content/partido
 - [Assembleia da República](https://www.parlamento.pt/)
 - [Bússola Política](https://www.bussolapolitica.org/)
 - [Socialism101.com](https://www.socialism101.com/portugues-do-brasil)
+
 
 - [Catarina Martins](https://twitter.com/catarina_mart)
 - [João Cotrim Figueiredo](https://twitter.com/jcf_liberal)
