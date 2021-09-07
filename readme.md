@@ -61,6 +61,9 @@
 - [A Arte da Guerra](https://www.wook.pt/livro/a-arte-da-guerra-sun-tzu/182965) por Sun Tzu
 - [O Livro dos Cinco Anéis](https://www.wook.pt/livro/o-livro-dos-cinco-aneis-miyamoto-musashi/24153307) por Miyamoto Musashi
 - [A Política em Tempos de Indignação](https://www.wook.pt/livro/a-politica-em-tempos-de-indignacao-daniel-innerarity/18438427) por Daniel Innerarity
+- [Direita e Esquerda: Razões e significados de uma distinção política](https://www.goodreads.com/book/show/7213374-direita-e-esquerda) por Norberto Bobbio
+- [Do Fascismo ao Populismo na História](https://www.wook.pt/livro/do-fascismo-ao-populismo-na-historia-federico-finchelstein/23315961) por Federico Finchelstein 
+- [Como Morrem as Democracias](https://www.wook.pt/livro/como-morrem-as-democracias-steven-levitsky/22177306) por Steven Levitsky e Daniel Ziblatt 
 
 #### Em Inglês
 
@@ -90,6 +93,11 @@
 - [Global Transformations](https://www.wook.pt/livro/global-transformations-david-goldblatt/1543977)
 - [The Revenge Of Geography](https://www.wook.pt/livro/the-revenge-of-geography-robert-d-kaplan/15016445)
 
+#### Europa
+
+- [A Paz Perpétua e Outros Opúsculos](https://www.wook.pt/livro/a-paz-perpetua-e-outros-opusculos-immanuel-kant/209912)
+- [A Europa Ainda é Possível](https://www.wook.pt/livro/a-europa-ainda-e-possivel-maria-joao-rodrigues/15260708)
+
 
 ### Livros Diversos em Português
 
@@ -102,8 +110,13 @@
 - [O Economista Insurgente](https://www.goodreads.com/book/show/22665203-o-economista-insurgente)
 - [O Pequeno Livro Negro da Corrupção](https://www.goodreads.com/book/show/55252675-o-pequeno-livro-negro-da-corrup-o)
 - [Três retratos: Salazar, Cunhal, Soares](https://www.goodreads.com/book/show/54269622-tr-s-retratos)
+- [Presos por um Fio Portugal e as FP-25 de Abril](https://www.wook.pt/livro/presos-por-um-fio-nuno-goncalo-pocas/24710061)
+- [Da Radicalização Ideológica ao Terrorismo](https://www.wook.pt/livro/da-radicalizacao-ideologica-ao-terrorismo-joao-paulo-ventura/24456557)
 - [O Regresso da Ultradireita](https://www.wook.pt/livro/o-regresso-da-ultradireita-cas-mudde/24370141)
 - [A Nova Direita Anti-Sistema: O caso do Chega](https://www.wook.pt/livro/a-nova-direita-anti-sistema-riccardo-marchi/24067864)
+- [1984](https://www.wook.pt/livro/1984-george-orwell/192908)
+- [Admirável Novo Mundo](https://www.wook.pt/livro/admiravel-mundo-novo-aldous-huxley/15294750)
+- [Duna](https://www.wook.pt/livro/pack-duna-frank-herbert/18826801)
 
 ### Livros Diversos em Inglês
 
@@ -151,6 +164,8 @@
 - [RANE: Stratfor](https://open.spotify.com/show/511PM9A2TFTGtdCwg1qQ5C?si=aa6ed474944f4d93)
 - [The Diplomat: Asia Geopolitics](https://open.spotify.com/show/5GSBN1zEZJclQ17BP23c3n?si=e6852a3c7fbe4dcb)
 - [North Korea News](https://open.spotify.com/show/0aO8FA8EA9tbfcclFBElFn?si=fb7a0df3dad1437a)
+- [FiveThirtyEight](https://fivethirtyeight.com/podcasts/)
+
 
 ## Partidos Políticos
 
@@ -190,6 +205,7 @@ página da [Comissão Nacional de Eleições](https://www.cne.pt/content/partido
 
 ### Associações
 
+- [Associação D3 - Defesa dos Direitos Digitais](https://www.direitosdigitais.pt/)
 - [Associação Participar+](https://www.participarmais.pt/)
 - [Fórum Manifesto](https://blog.manifesto.com.pt/)
 - [Frente Cívica](https://frentecivica.com/)
@@ -252,6 +268,8 @@ página da [Comissão Nacional de Eleições](https://www.cne.pt/content/partido
 
 - [Assembleia da República](https://www.parlamento.pt/)
 - [Bússola Política](https://www.bussolapolitica.org/)
+- [Diário da República Eletrónico](https://dre.pt/)
+- [Orçamento Participativo Portugal](https://www.facebook.com/OrcamentoParticipativoPortugal)
 - [Socialism101.com](https://www.socialism101.com/portugues-do-brasil)
 
 
