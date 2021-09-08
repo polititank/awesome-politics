@@ -21,10 +21,18 @@
 
 ### Em Português
 
+- [Cascais Data](https://data.cascais.pt/)
+- [Central de Dados](http://centraldedados.pt/)
 - [dados.gov](https://dados.gov.pt/pt/)
 - [Eleições - Resultados dos Escrutínios Provisórios](https://www.eleicoes.mai.gov.pt/)
+- [gitlab.com/Renascenca/dados](https://gitlab.com/Renascenca/dados)
+- [INESC TEC research data repository](https://rdm.inesctec.pt/)
+- [Lisboa Aberta](http://lisboaaberta.cm-lisboa.pt/)
+- [OpenData BNP](https://opendata.bnportugal.gov.pt/)
+- [Plataforma de Dados Abertos de Águeda](https://ckan.sig.cm-agueda.pt/)
 - [PORDATA](https://www.pordata.pt/)
 - [Portal ConsultaLEX](https://www.consultalex.gov.pt/)
+- [Transparência Hackday Wiki](https://www.transparenciahackday.org/wiki/)
 
 ### Em Inglês
 
@@ -76,6 +84,7 @@
 #### Liberalismo
 
 - [Biblioteca - Instituto +Liberdade](https://maisliberdade.pt/biblioteca/)
+- [O Apelo da Tribo](https://www.wook.pt/livro/o-apelo-da-tribo-mario-vargas-llosa/22075182)
 
 #### Socialismo
 
@@ -97,7 +106,6 @@
 
 - [A Paz Perpétua e Outros Opúsculos](https://www.wook.pt/livro/a-paz-perpetua-e-outros-opusculos-immanuel-kant/209912)
 - [A Europa Ainda é Possível](https://www.wook.pt/livro/a-europa-ainda-e-possivel-maria-joao-rodrigues/15260708)
-
 
 ### Livros Diversos em Português
 
@@ -124,6 +132,11 @@
 
 - [Science Fictions: The Epidemic of Fraud, Bias, Negligence and Hype in Science](https://www.goodreads.com/book/show/52199285-science-fictions?from_search=true&from_srp=true&qid=3HUfLFvQfB&rank=10)
 
+### AudioBooks em Inglês
+
+- [The Republic by Plato (part 1 of 2)](https://youtu.be/v5O-JS1kniY)
+- [The Republic by Plato (part 2 of 2)](https://youtu.be/Vp-a9U8tRFE)
+
 ## Cursos Online
 
 ### Em Inglês
@@ -141,7 +154,17 @@
 
 ## Documentários
 
+### Em Português
+
+- [O Lado Negro das Energias Verdes](https://youtu.be/stxkY2JelZ0)
+- [O Mundo Segundo Xi Jinping (2018)](https://youtu.be/m9Uz-9wQsBE)
 - [Portugal 74/75](https://arquivos.rtp.pt/conteudos/portugal-7475/)
+
+### Em Inglês
+
+- [All Watched Over by Machines of Loving Grace - Episode 1 - Love and Power](https://vimeo.com/515004292)
+- [All Watched Over by Machines of Loving Grace - Episode 2 - The Use and Abuse of Vegetational Concepts by Adam Curtis](https://vimeo.com/529013583)
+- [All Watched Over by Machines of Loving Grace - Episode 3 - The Monkey in the Machine and the Machine in the Monkey](https://vimeo.com/541217333)
 
 ## Entrevistas
 
@@ -165,7 +188,6 @@
 - [The Diplomat: Asia Geopolitics](https://open.spotify.com/show/5GSBN1zEZJclQ17BP23c3n?si=e6852a3c7fbe4dcb)
 - [North Korea News](https://open.spotify.com/show/0aO8FA8EA9tbfcclFBElFn?si=fb7a0df3dad1437a)
 - [FiveThirtyEight](https://fivethirtyeight.com/podcasts/)
-
 
 ## Partidos Políticos
 
@@ -231,6 +253,45 @@ página da [Comissão Nacional de Eleições](https://www.cne.pt/content/partido
 
 - [Manifesto: Por uma Democracia de Qualidade](https://www.facebook.com/DemocraciadeQualidade/)
 
+### Open Source
+
+- [github.com/antoniodias/endorsements-in-intra-party-elections](https://github.com/antoniodias/endorsements-in-intra-party-elections)
+- [github.com/cleanspin/wordclouds_pt_leg](https://github.com/cleanspin/wordclouds_pt_leg)
+- [github.com/everypolitician-scrapers/portugal-constituencies-wikidata](https://github.com/everypolitician-scrapers/portugal-constituencies-wikidata)
+- [github.com/marado/partidos-coloridos](https://github.com/marado/partidos-coloridos)
+- [github.com/pierfreeman/dar-graph-extractor](https://github.com/pierfreeman/dar-graph-extractor)
+- [github.com/transparenciahackday/40anosdeabstencao](https://github.com/transparenciahackday/40anosdeabstencao)
+- [github.com/transparenciahackday/about-thd](https://github.com/transparenciahackday/about-thd)
+- [github.com/transparenciahackday/acesso-ensino-superior-medicina](https://github.com/transparenciahackday/acesso-ensino-superior-medicina)
+- [github.com/transparenciahackday/autores-portugueses](https://github.com/transparenciahackday/autores-portugueses)
+- [github.com/transparenciahackday/census2011](https://github.com/transparenciahackday/census2011)
+- [github.com/transparenciahackday/centraldedados.pt](https://github.com/transparenciahackday/centraldedados.pt)
+- [github.com/transparenciahackday/dadosabertos.pt](https://github.com/transparenciahackday/dadosabertos.pt)
+- [github.com/transparenciahackday/dadosgov-notebooks](https://github.com/transparenciahackday/dadosgov-notebooks)
+- [github.com/transparenciahackday/dadosgov-overview](https://github.com/transparenciahackday/dadosgov-overview)
+- [github.com/transparenciahackday/dar-doc](https://github.com/transparenciahackday/dar-doc)
+- [github.com/transparenciahackday/dar-json](https://github.com/transparenciahackday/dar-json)
+- [github.com/transparenciahackday/dar-scripts](https://github.com/transparenciahackday/dar-scripts)
+- [github.com/transparenciahackday/dar-txt](https://github.com/transparenciahackday/dar-txt)
+- [github.com/transparenciahackday/datasets](https://github.com/transparenciahackday/datasets)
+- [github.com/transparenciahackday/datewithdata_projectos](https://github.com/transparenciahackday/datewithdata_projectos)
+- [github.com/transparenciahackday/datewithdata.pt](https://github.com/transparenciahackday/datewithdata.pt)
+- [github.com/transparenciahackday/democratica](https://github.com/transparenciahackday/democratica)
+- [github.com/transparenciahackday/filtro-de-ruas](https://github.com/transparenciahackday/filtro-de-ruas)
+- [github.com/transparenciahackday/geodevolutas-doc](https://github.com/transparenciahackday/geodevolutas-doc)
+- [github.com/transparenciahackday/geodevolutas](https://github.com/transparenciahackday/geodevolutas)
+- [github.com/transparenciahackday/handbook](https://github.com/transparenciahackday/handbook)
+- [github.com/transparenciahackday/invasao_dos_hamburgueres](https://github.com/transparenciahackday/invasao_dos_hamburgueres)
+- [github.com/transparenciahackday/mila](https://github.com/transparenciahackday/mila)
+- [github.com/transparenciahackday/obitos_em_portugal](https://github.com/transparenciahackday/obitos_em_portugal)
+- [github.com/transparenciahackday/opendataday.org](https://github.com/transparenciahackday/opendataday.org)
+- [github.com/transparenciahackday/scraper-deputados](https://github.com/transparenciahackday/scraper-deputados)
+- [github.com/transparenciahackday/siglapedia](https://github.com/transparenciahackday/siglapedia)
+- [github.com/transparenciahackday/totonome-backend](https://github.com/transparenciahackday/totonome-backend)
+- [github.com/transparenciahackday/totonome-frontend](https://github.com/transparenciahackday/totonome-frontend)
+- [github.com/transparenciahackday/transparencia-porto](https://github.com/transparenciahackday/transparencia-porto)
+- [github.com/transparenciahackday/workshop-mapas-folium](https://github.com/transparenciahackday/workshop-mapas-folium)
+
 ### Think Tanks
 
 - [Polititank](https://polititank.pt/)
@@ -271,7 +332,10 @@ página da [Comissão Nacional de Eleições](https://www.cne.pt/content/partido
 - [Diário da República Eletrónico](https://dre.pt/)
 - [Orçamento Participativo Portugal](https://www.facebook.com/OrcamentoParticipativoPortugal)
 - [Socialism101.com](https://www.socialism101.com/portugues-do-brasil)
-
+- [Transparência Hackday Portugal](http://www.transparenciahackday.org/)
+- [Open Knowledge Portugal](https://okfn.org/network/portugal/)
+- [Date With Data](https://datewithdata.pt/)
+- [SoftwarePúblico.gov.pt](https://www.softwarepublico.gov.pt/)
 
 - [Catarina Martins](https://twitter.com/catarina_mart)
 - [João Cotrim Figueiredo](https://twitter.com/jcf_liberal)
