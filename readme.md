@@ -227,6 +227,7 @@ página da [Comissão Nacional de Eleições](https://www.cne.pt/content/partido
 
 ### Associações
 
+- [ANSOL - Associação Nacional para o Software Livre](https://ansol.org/)
 - [Associação D3 - Defesa dos Direitos Digitais](https://www.direitosdigitais.pt/)
 - [Associação Participar+](https://www.participarmais.pt/)
 - [Fórum Manifesto](https://blog.manifesto.com.pt/)
