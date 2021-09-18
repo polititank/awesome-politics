@@ -75,11 +75,17 @@
 
 #### Em Inglês
 
+- [Homage to Catalonia](https://www.goodreads.com/book/show/9646.Homage_to_Catalonia)
 - [The Three Languages of Politics: Talking Across the Political Divides](https://www.goodreads.com/book/show/35443537-the-three-languages-of-politics)
+
 
 ### Bibliotecas Especializadas
 
 > Obras em várias línguas
+
+#### Anarquismo
+
+- [On Anarchism](https://www.wook.pt/livro/on-anarchism-noam-chomsky-/15604040)
 
 #### Liberalismo
 
@@ -144,6 +150,7 @@
 - [Introduction to Political Philosophy with Steven B. Smith](https://youtube.com/playlist?list=PL8D95DEA9B7DFE825)
 - [Political Science 30: Politics and Strategy, UCLA](https://youtube.com/playlist?list=PLF420ADB3E328425A)
 - [Power and Politics in Today’s World](https://youtube.com/playlist?list=PLh9mgdi4rNeyViG2ar68jkgEi4y6doNZy)
+- [Tamar Gendler: An Introduction to the Philosophy of Politics and Economics](https://youtu.be/mm8asJxdcds)
 - [The Moral Foundations of Politics with Ian Shapiro](https://youtube.com/playlist?list=PL2FD48CE33DFBEA7E)
 
 ## Debates
@@ -156,8 +163,12 @@
 
 ### Em Português
 
+- [Emídio Santana - A Voz Resistente do Anarquismo](https://www.rtp.pt/play/p7469/e566285/emidio-santana-a-voz-resistente-do-anarquismo)
 - [O Lado Negro das Energias Verdes](https://youtu.be/stxkY2JelZ0)
 - [O Mundo Segundo Xi Jinping (2018)](https://youtu.be/m9Uz-9wQsBE)
+- [O Tempo dos Operários](https://www.rtp.pt/programa/tv/p40616)
+- [Palavra de Otelo](https://www.rtp.pt/programa/tv/p41038)
+- [PCP: 100 Anos a Resistir](https://www.rtp.pt/programa/tv/p40985)
 - [Portugal 74/75](https://arquivos.rtp.pt/conteudos/portugal-7475/)
 
 ### Em Inglês
@@ -165,20 +176,26 @@
 - [All Watched Over by Machines of Loving Grace - Episode 1 - Love and Power](https://vimeo.com/515004292)
 - [All Watched Over by Machines of Loving Grace - Episode 2 - The Use and Abuse of Vegetational Concepts by Adam Curtis](https://vimeo.com/529013583)
 - [All Watched Over by Machines of Loving Grace - Episode 3 - The Monkey in the Machine and the Machine in the Monkey](https://vimeo.com/541217333)
+- [The Century of the Self (Full Documentary)](https://youtu.be/eJ3RzGoQC4s)
 
 ## Entrevistas
 
+- [A entrevista de Miguel Sousa Tavares a António Costa na íntegra](https://tvi24.iol.pt/videos/politica/a-entrevista-de-miguel-sousa-tavares-a-antonio-costa-na-integra/61368f9f0cf246344eba1fd4)
+- [Entrevista - Zita Seabra](https://youtube.com/playlist?list=PLuYPO4REfHUI09Kqm2W4ncY2QX1TCilwM)
 - [Presidenciais 2021 - Entrevistas](https://www.rtp.pt/programa/tv/p39829)
+- [Tempos Livres: Diana Duarte entrevista Bruno Maçães](https://youtu.be/iDAt8sY_PzM)
 
 ## Podcasts
 
 ### Portugal
 
 - [Comissão Política - Expresso](https://expresso.pt/podcasts/comissao-politica)
+- [Comité Central](https://open.spotify.com/show/4536U4sE7nMb6prAFbnP0V)
 - [Gabinete de Crise](https://polititank.pt/tags/gabinete-de-crise/)
 - [Governo Sombra](https://expresso.pt/podcasts/governo-sombra)
 - [Podcast Conversa](https://www.instagram.com/podcast_conversa/)
 - [Poder Público](https://www.publico.pt/poder-publico-podcast)
+- [Programa Cujo Nome Estamos Legalmente Impedidos de Dizer](https://open.spotify.com/show/6KlL0tnuYYioetR3ahUTge)
 - [World on the Rocks](https://twitter.com/WorldRocksPod)
 
 ### Internacional
@@ -336,6 +353,22 @@ página da [Comissão Nacional de Eleições](https://www.cne.pt/content/partido
 - [Open Knowledge Portugal](https://okfn.org/network/portugal/)
 - [Date With Data](https://datewithdata.pt/)
 - [SoftwarePúblico.gov.pt](https://www.softwarepublico.gov.pt/)
+
+- [A Federal Europe? The Party Trying to Unite Europe Further - TLDR News](https://youtu.be/tq0t16z1WV8)
+- [Palestras ao Bob](https://youtube.com/playlist?list=PLuYPO4REfHUIgrRPRYaPOnvxLwyRwl7nn)
+- [Portuguese Revolution - FP25 Abril - Forças Populares (In Portuguese only)](https://youtu.be/V37Wb9HyLbw)
+- [Meet the Censors](https://www.imdb.com/title/tt12782812/)
+- ["Há Conversa" com José Manuel Moreira, 1/7](https://youtu.be/F5Ve_gZCo8I)
+- [É Ou Não É? - O Grande Debate](https://www.rtp.pt/programa/tv/p40161)
+- [Grande Angular - Entrevista a João Cotrim Figueiredo](http://videos.sapo.pt/FDlaRWSLkIfpISuDb4T3)
+- [Mário Soares diz que Salazar não era fascista nem corrupto](https://youtu.be/BELyfvf5J9M)
+- [Programa Regressar](https://www.programaregressar.gov.pt/)
+- [IsraelPalestine For Critical Thinkers](https://www.youtube.com/playlist?list=PLPvkBEWSL5pKelZ5rXDwFTerxuq9rlUKk)
+- [Grande Entrevista](https://www.rtp.pt/programa/tv/p39836)
+- [Entrevista [In] Pertinente a Timothy Snyder: Como vai a democracia?](https://fb.watch/7VyxRDGwdH/)
+- [What Is Anarchism? Noam Chomsky on Capitalism, Socialism, Free Markets (2013)](https://youtu.be/yccBBzSHFAM)
+- [Introduction to the History of Anarchism](https://youtu.be/OJ_qg23orFM)
+- [The Spanish Civil War](https://youtube.com/playlist?list=PLUtqZXAZojHiDD1_j7rpZl8qmFzRIGmkx)
 
 - [Catarina Martins](https://twitter.com/catarina_mart)
 - [João Cotrim Figueiredo](https://twitter.com/jcf_liberal)
