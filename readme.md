@@ -72,6 +72,7 @@
 - [Direita e Esquerda: Razões e significados de uma distinção política](https://www.goodreads.com/book/show/7213374-direita-e-esquerda) por Norberto Bobbio
 - [Do Fascismo ao Populismo na História](https://www.wook.pt/livro/do-fascismo-ao-populismo-na-historia-federico-finchelstein/23315961) por Federico Finchelstein 
 - [Como Morrem as Democracias](https://www.wook.pt/livro/como-morrem-as-democracias-steven-levitsky/22177306) por Steven Levitsky e Daniel Ziblatt 
+- [Como Ganhar Uma Eleição](https://www.wook.pt/ebook/como-ganhar-uma-eleicao-quintus-tullius-cicero/24009930) por Quintus Tullius Cicero
 
 #### Em Inglês
 
@@ -137,6 +138,7 @@
 > Livros que só podem ser encontrados em Inglês
 
 - [Science Fictions: The Epidemic of Fraud, Bias, Negligence and Hype in Science](https://www.goodreads.com/book/show/52199285-science-fictions?from_search=true&from_srp=true&qid=3HUfLFvQfB&rank=10)
+- [Cynical Theories: How Activist Scholarship Made Everything about Race, Gender, and Identity—and Why This Harms Everybody](https://www.goodreads.com/book/show/53052177-cynical-theories?ac=1&from_search=true&qid=u5dO5Rpjgq&rank=2)
 
 ### AudioBooks em Inglês
 
