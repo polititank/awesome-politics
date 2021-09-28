@@ -370,6 +370,9 @@ página da [Comissão Nacional de Eleições](https://www.cne.pt/content/partido
 - [What Is Anarchism? Noam Chomsky on Capitalism, Socialism, Free Markets (2013)](https://youtu.be/yccBBzSHFAM)
 - [Introduction to the History of Anarchism](https://youtu.be/OJ_qg23orFM)
 - [The Spanish Civil War](https://youtube.com/playlist?list=PLUtqZXAZojHiDD1_j7rpZl8qmFzRIGmkx)
+- [Reuniões da Assembleia Municipal | Câmara Municipal do Porto](https://www.cm-porto.pt/reunioes-da-assembleia-municipal)
+
+### Twitter
 
 - [Catarina Martins](https://twitter.com/catarina_mart)
 - [João Cotrim Figueiredo](https://twitter.com/jcf_liberal)
