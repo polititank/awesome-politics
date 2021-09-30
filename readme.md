@@ -46,6 +46,7 @@
 
 - [O Sistema Político Português](https://www.ffms.pt/publicacoes/detalhe/2188/o-sistema-politico-portugues)
 - [Reinventar a Democracia](https://www.goodreads.com/book/show/25862711-reinventar-a-democracia)
+- [Coleção Como São os Portugueses](https://www.ffms.pt/destaques/detalhe/4375/coleccao-os-portugueses)
 
 > Comece aqui a Introdução à Política a nível académico. Estão por ordem de dificuldade, começando por livros introdutórios para qualquer iniciante, depois cursos, e conceitos aprofundados
 
@@ -61,9 +62,9 @@
 
 #### Em Português
 
-- [A Política e o Entretenimento](https://www.ffms.pt/publicacoes/detalhe/1188/politica-e-entretenimento) por José Santana Pereira
-- [Descentralização e Poder Local em Portugal](https://www.ffms.pt/publicacoes/detalhe/5206/descentralizacao-e-poder-local-em-portugal) por Filipe Teles
-- [A Democracia Local em Portugal](https://www.ffms.pt/publicacoes/detalhe/5677/a-democracia-local-em-portugal) por António Cândido Oliveira
+- [A Política e o Entretenimento](https://www.ffms.pt/publicacoes/detalhe/1188/politica-e-entretenimento) por José Santana Pereira (FFMS)
+- [Descentralização e Poder Local em Portugal](https://www.ffms.pt/publicacoes/detalhe/5206/descentralizacao-e-poder-local-em-portugal) por Filipe Teles (FFMS)
+- [A Democracia Local em Portugal](https://www.ffms.pt/publicacoes/detalhe/5677/a-democracia-local-em-portugal) por António Cândido Oliveira (FFMS)
 - [Direita e Esquerda: Razões e significados de uma distinção política](https://www.goodreads.com/book/show/7213374-direita-e-esquerda)
 - [O Príncipe](https://www.wook.pt/livro/o-principe-maquiavel/16540459) por Nicolau Maquiavel
 - [A Arte da Guerra](https://www.wook.pt/livro/a-arte-da-guerra-sun-tzu/182965) por Sun Tzu
@@ -78,6 +79,7 @@
 
 - [Homage to Catalonia](https://www.goodreads.com/book/show/9646.Homage_to_Catalonia)
 - [The Three Languages of Politics: Talking Across the Political Divides](https://www.goodreads.com/book/show/35443537-the-three-languages-of-politics)
+- [The Power Elite](https://www.goodreads.com/book/show/2039727.The_Power_Elite)
 
 
 ### Bibliotecas Especializadas
@@ -87,6 +89,7 @@
 #### Anarquismo
 
 - [On Anarchism](https://www.wook.pt/livro/on-anarchism-noam-chomsky-/15604040)
+- [Anarchy, State, and Utopia](https://www.goodreads.com/book/show/28966289-anarchy-state-and-utopia)
 
 #### Liberalismo
 
@@ -103,9 +106,11 @@
 
 #### Globalismo
 
+- [O Mundo de Amanhã – Geopolítica Contemporânea](https://www.ffms.pt/publicacoes/detalhe/4430/o-mundo-de-amanha-geopolitica-contemporanea) (FFMS)
 - [Armas, Germes e Aço](https://www.wook.pt/livro/armas-germes-e-aco-jared-diamond/16118065)
 - [Prisioneiros da Geografia](https://www.wook.pt/livro/prisioneiros-da-geografia-tim-marshall/19597654)
 - [O Neoconservadorismo e a Política Externa Norte-Americana](https://www.wook.pt/livro/o-neoconservadorismo-e-a-politica-externa-norte-americana-cristiano-cabrita/18500850)
+- [From Containment to Global Leadership: America and the World After the Cold War](https://www.rand.org/content/dam/rand/pubs/monograph_reports/2006/MR525.pdf?fbclid=IwAR011iDJ_nlpMMJZUI0qSDF50dWfWrsOng7UkwfO7kBCA578WHPTtR7QEhM)
 - [Global Transformations](https://www.wook.pt/livro/global-transformations-david-goldblatt/1543977)
 - [The Revenge Of Geography](https://www.wook.pt/livro/the-revenge-of-geography-robert-d-kaplan/15016445)
 
@@ -125,13 +130,17 @@
 - [O Economista Insurgente](https://www.goodreads.com/book/show/22665203-o-economista-insurgente)
 - [O Pequeno Livro Negro da Corrupção](https://www.goodreads.com/book/show/55252675-o-pequeno-livro-negro-da-corrup-o)
 - [Três retratos: Salazar, Cunhal, Soares](https://www.goodreads.com/book/show/54269622-tr-s-retratos)
+- [Criminalidade e segurança](https://www.ffms.pt/publicacoes/detalhe/4006/criminalidade-e-seguranca) (FFMS)
 - [Presos por um Fio Portugal e as FP-25 de Abril](https://www.wook.pt/livro/presos-por-um-fio-nuno-goncalo-pocas/24710061)
 - [Da Radicalização Ideológica ao Terrorismo](https://www.wook.pt/livro/da-radicalizacao-ideologica-ao-terrorismo-joao-paulo-ventura/24456557)
 - [O Regresso da Ultradireita](https://www.wook.pt/livro/o-regresso-da-ultradireita-cas-mudde/24370141)
 - [A Nova Direita Anti-Sistema: O caso do Chega](https://www.wook.pt/livro/a-nova-direita-anti-sistema-riccardo-marchi/24067864)
 - [1984](https://www.wook.pt/livro/1984-george-orwell/192908)
 - [Admirável Novo Mundo](https://www.wook.pt/livro/admiravel-mundo-novo-aldous-huxley/15294750)
+- [Starship Troopers](https://www.wook.pt/livro/starship-troopers-robert-a-heinlein/16204756)
 - [Duna](https://www.wook.pt/livro/pack-duna-frank-herbert/18826801)
+- [Religião na sociedade portuguesa](https://www.ffms.pt/publicacoes/detalhe/3779/religiao-na-sociedade-portuguesa) (FFMS)
+- [Odisseia](https://www.goodreads.com/book/show/7385815-odisseia)
 
 ### Livros Diversos em Inglês
 
