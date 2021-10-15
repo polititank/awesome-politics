@@ -149,6 +149,10 @@
 - [Science Fictions: The Epidemic of Fraud, Bias, Negligence and Hype in Science](https://www.goodreads.com/book/show/52199285-science-fictions?from_search=true&from_srp=true&qid=3HUfLFvQfB&rank=10)
 - [Cynical Theories: How Activist Scholarship Made Everything about Race, Gender, and Identity—and Why This Harms Everybody](https://www.goodreads.com/book/show/53052177-cynical-theories?ac=1&from_search=true&qid=u5dO5Rpjgq&rank=2)
 
+### AudioBooks em Português
+
+- [PTB - Audiobooks](https://www.youtube.com/user/blackmaster212/videos)
+
 ### AudioBooks em Inglês
 
 - [The Republic by Plato (part 1 of 2)](https://youtu.be/v5O-JS1kniY)
