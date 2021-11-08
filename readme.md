@@ -386,6 +386,16 @@ página da [Comissão Nacional de Eleições](https://www.cne.pt/content/partido
 - [Introduction to the History of Anarchism](https://youtu.be/OJ_qg23orFM)
 - [The Spanish Civil War](https://youtube.com/playlist?list=PLUtqZXAZojHiDD1_j7rpZl8qmFzRIGmkx)
 - [Reuniões da Assembleia Municipal | Câmara Municipal do Porto](https://www.cm-porto.pt/reunioes-da-assembleia-municipal)
+- [Ver Capas dos Jornais e Revistas de hoje - Edição Online](https://www.vercapas.com/)
+- [Autárquicas 2021 - Antena 1](https://www.rtp.pt/programa/radio/p7399)
+- [Guerra civil española Granada tv](https://www.youtube.com/playlist?list=PLj0cAdW58NpIFV4ryfBEccdjcJ4ZeBUNl)
+- [Encontro Fora da Caixa - Portimão](https://youtu.be/r86e87GhTLc)
+- [Cidadania XXI](https://www.cidadaniaxxi.eu/)
+- [Associação 25 de Abril](https://a25abril.pt/)
+- [Living Utopia - The Anarchists and the Spanish Revolution](https://youtu.be/I0XhRnJz8fU)
+- [New Statesman](https://www.newstatesman.com/international)
+- [Nossa Europa - Plataforma de Cidadania](https://nossaeuropa.eu/)
+- [Polls Sobre Política](https://youtube.com/channel/UCpq3YSyzi6wKYS8dup9Z_Qw)
 
 ### Twitter
 
