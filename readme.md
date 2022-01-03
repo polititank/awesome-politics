@@ -141,6 +141,7 @@
 - [Duna](https://www.wook.pt/livro/pack-duna-frank-herbert/18826801)
 - [Religião na sociedade portuguesa](https://www.ffms.pt/publicacoes/detalhe/3779/religiao-na-sociedade-portuguesa) (FFMS)
 - [Odisseia](https://www.goodreads.com/book/show/7385815-odisseia)
+- [Quando Portugal Ardeu](https://www.wook.pt/livro/quando-portugal-ardeu-miguel-carvalho/19173379)  
 
 ### Livros Diversos em Inglês
 
