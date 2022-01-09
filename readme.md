@@ -16,6 +16,7 @@
 - [Redes Sociais](#redes-sociais)
 - [Vídeos](#vídeos)
 - [Diversos](#diversos)
+- [Eleições Legislativas 2022](#eleições-legislativas-2022)
 
 ## Bases de Dados
 
@@ -406,6 +407,44 @@ página da [Comissão Nacional de Eleições](https://www.cne.pt/content/partido
 - [António Costa](https://twitter.com/antoniocostaps)
 - [Rui Rio](https://twitter.com/RuiRioPSD)
 - [Inês de Sousa Real](https://twitter.com/lnes_Sousa_Real)
+
+## Eleições Legislativas 2022
+
+### Programas Eleitorais
+
+- [BE](https://programa2022.bloco.org/)
+- [CDS]()
+- [Chega](https://partidochega.pt/programa-eleitoral-legislativas-2022/)
+- [IL](https://iniciativaliberal.pt/legislativas-2022/programa-eleitoral/)
+- [Livre](https://partidolivre.pt/legislativas2022/#programa)
+- [PAN]()
+- [PCP](https://www.pcp.pt/compromisso-eleitoral-do-pcp-legislativas-2022)
+- [PSD](https://www.psd.pt/pt/programa-eleitoral-2022)
+
+### Entrevistas Líderes Partidários
+
+- [BE - Catarina Martins](https://www.rtp.pt/play/p9596/e584989/eleicoes-legislativas-2022-entrevistas-lideres-partidarios)
+- [CDS - Francisco Rodrigues dos Santos](https://www.rtp.pt/play/p9596/e585870/eleicoes-legislativas-2022-entrevistas-lideres-partidarios)
+- [Chega - André Ventura](https://www.rtp.pt/play/p9596/e585994/eleicoes-legislativas-2022-entrevistas-lideres-partidarios)
+- [IL - João Cotrim de Figueiredo](https://www.rtp.pt/play/p9596/e585995/eleicoes-legislativas-2022-entrevistas-lideres-partidarios)
+- [Livre - Rui Tavares](https://www.rtp.pt/play/p9596/eleicoes-legislativas-2022-entrevistas-lideres-partidarios)
+- [PAN - Inês Sousa Real](https://www.rtp.pt/play/p9596/e584397/eleicoes-legislativas-2022-entrevistas-lideres-partidarios)
+- [PCP - Jerónimo de Sousa](https://www.rtp.pt/play/p9596/e585261/eleicoes-legislativas-2022-entrevistas-lideres-partidarios)
+- [PSD - Rui Rio](https://www.rtp.pt/play/p9596/e585997/eleicoes-legislativas-2022-entrevistas-lideres-partidarios)
+
+### Debates
+
+| \ | BE - Catarina Martins | CDS - Francisco Rodrigues dos Santos | Chega - André Ventura | IL - João Cotrim de Figueiredo | Livre - Rui Tavares | PAN - Inês Sousa Real | PCP - Jerónimo de Sousa | PS - António Costa | PSD - Rui Rio |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| BE - Catarina Martins | - | - | - | - | - | - | - | - | - |
+| CDS - Francisco Rodrigues dos Santos | | - | - | - | - | - | - | - | - |
+| Chega - André Ventura | [SIC](https://www.rtp.pt/play/p9787/e589704/legislativas-2022-debates-sic-sic-noticias) | | - | - | - | - | - | - | - |
+| IL - João Cotrim de Figueiredo | [SIC](https://www.rtp.pt/play/p9787/e590739/legislativas-2022-debates-sic-sic-noticias) | [RTP](https://www.rtp.pt/play/p9711/e590549/legislativas-2022-debates-rtp) | | - | - | - | - | - | - |
+| Livre - Rui Tavares | [SIC](https://www.rtp.pt/play/p9787/e590217/legislativas-2022-debates-sic-sic-noticias) | | [TVI/CNN](https://www.rtp.pt/play/p9788/e590493/legislativas-2022-debates-tvi-cnn) | | - | - | - | - | - |
+| PAN - Inês Sousa Real | | [RTP](https://www.rtp.pt/play/p9711/e590201/legislativas-2022-debates-rtp) | | [SIC](https://www.rtp.pt/play/p9787/e591024/legislativas-2022-debates-sic-sic-noticias) | | - | - | - | - |
+| PCP - Jerónimo de Sousa | | | | | | [TVI/CNN](https://www.rtp.pt/play/p9788/e590216/legislativas-2022-debates-tvi-cnn) | - | - | - |
+| PS - António Costa | | | [RTP](https://www.rtp.pt/play/p9711/e590727/legislativas-2022-debates-rtp) | | [RTP](https://www.rtp.pt/play/p9711/e589677/legislativas-2022-debates-rtp) | | | - | - |
+| PSD - Rui Rio | [SIC](https://www.rtp.pt/play/p9787/e590491/legislativas-2022-debates-sic-sic-noticias) | [TVI/CNN](https://www.rtp.pt/play/p9788/e591023/legislativas-2022-debates-tvi-cnn) | [SIC](https://www.rtp.pt/play/p9787/e589982/legislativas-2022-debates-sic-sic-noticias) | | [RTP](https://www.rtp.pt/play/p9711/e591101/legislativas-2022-debates-rtp) | | | | - |
 
 ## Contribuir
 
