@@ -434,8 +434,8 @@ página da [Comissão Nacional de Eleições](https://www.cne.pt/content/partido
 
 ### Debates
 
-| \ | BE - Catarina Martins | CDS - Francisco Rodrigues dos Santos | Chega - André Ventura | IL - João Cotrim de Figueiredo | Livre - Rui Tavares | PAN - Inês Sousa Real | PCP - Jerónimo de Sousa | PS - António Costa | PSD - Rui Rio |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| \ | BE | CDS | Chega | IL | Livre | PAN | PCP | PS | PSD |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | BE - Catarina Martins | - | - | - | - | - | - | - | - | - |
 | CDS - Francisco Rodrigues dos Santos | | - | - | - | - | - | - | - | - |
 | Chega - André Ventura | [SIC](https://www.rtp.pt/play/p9787/e589704/legislativas-2022-debates-sic-sic-noticias) | | - | - | - | - | - | - | - |
