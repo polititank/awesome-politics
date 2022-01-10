@@ -413,7 +413,7 @@ página da [Comissão Nacional de Eleições](https://www.cne.pt/content/partido
 ### Programas Eleitorais
 
 - [BE](https://programa2022.bloco.org/)
-- [CDS]()
+- [CDS](https://www.cdslegislativas2022.com/)
 - [Chega](https://partidochega.pt/programa-eleitoral-legislativas-2022/)
 - [IL](https://iniciativaliberal.pt/legislativas-2022/programa-eleitoral/)
 - [Livre](https://partidolivre.pt/legislativas2022/#programa)
@@ -439,11 +439,11 @@ página da [Comissão Nacional de Eleições](https://www.cne.pt/content/partido
 | BE - Catarina Martins | - | - | - | - | - | - | - | - | - |
 | CDS - Francisco Rodrigues dos Santos | | - | - | - | - | - | - | - | - |
 | Chega - André Ventura | [SIC](https://www.rtp.pt/play/p9787/e589704/legislativas-2022-debates-sic-sic-noticias) | | - | - | - | - | - | - | - |
-| IL - João Cotrim de Figueiredo | [SIC](https://www.rtp.pt/play/p9787/e590739/legislativas-2022-debates-sic-sic-noticias) | [RTP](https://www.rtp.pt/play/p9711/e590549/legislativas-2022-debates-rtp) | | - | - | - | - | - | - |
+| IL - João Cotrim de Figueiredo | [SIC](https://www.rtp.pt/play/p9787/e590739/legislativas-2022-debates-sic-sic-noticias) | [RTP](https://www.rtp.pt/play/p9711/e590549/legislativas-2022-debates-rtp) | [RTP](https://www.rtp.pt/play/p9711/e591220/legislativas-2022-debates-rtp) | - | - | - | - | - | - |
 | Livre - Rui Tavares | [SIC](https://www.rtp.pt/play/p9787/e590217/legislativas-2022-debates-sic-sic-noticias) | | [TVI/CNN](https://www.rtp.pt/play/p9788/e590493/legislativas-2022-debates-tvi-cnn) | | - | - | - | - | - |
-| PAN - Inês Sousa Real | | [RTP](https://www.rtp.pt/play/p9711/e590201/legislativas-2022-debates-rtp) | | [SIC](https://www.rtp.pt/play/p9787/e591024/legislativas-2022-debates-sic-sic-noticias) | | - | - | - | - |
+| PAN - Inês Sousa Real | [RTP](https://www.rtp.pt/play/p9711/e591427/legislativas-2022-debates-rtp) | [RTP](https://www.rtp.pt/play/p9711/e590201/legislativas-2022-debates-rtp) | | [SIC](https://www.rtp.pt/play/p9787/e591024/legislativas-2022-debates-sic-sic-noticias) | [SIC](https://www.rtp.pt/play/p9787/e591315/legislativas-2022-debates-sic-sic-noticias) | - | - | - | - |
 | PCP - Jerónimo de Sousa | | | | | | [TVI/CNN](https://www.rtp.pt/play/p9788/e590216/legislativas-2022-debates-tvi-cnn) | - | - | - |
-| PS - António Costa | | | [RTP](https://www.rtp.pt/play/p9711/e590727/legislativas-2022-debates-rtp) | | [RTP](https://www.rtp.pt/play/p9711/e589677/legislativas-2022-debates-rtp) | | | - | - |
+| PS - António Costa | | [SIC](https://www.rtp.pt/play/p9787/e591173/legislativas-2022-debates-sic-sic-noticias) | [RTP](https://www.rtp.pt/play/p9711/e590727/legislativas-2022-debates-rtp) | | [RTP](https://www.rtp.pt/play/p9711/e589677/legislativas-2022-debates-rtp) | [SIC](https://www.rtp.pt/play/p9787/e591173/legislativas-2022-debates-sic-sic-noticias) | | - | - |
 | PSD - Rui Rio | [SIC](https://www.rtp.pt/play/p9787/e590491/legislativas-2022-debates-sic-sic-noticias) | [TVI/CNN](https://www.rtp.pt/play/p9788/e591023/legislativas-2022-debates-tvi-cnn) | [SIC](https://www.rtp.pt/play/p9787/e589982/legislativas-2022-debates-sic-sic-noticias) | | [RTP](https://www.rtp.pt/play/p9711/e591101/legislativas-2022-debates-rtp) | | | | - |
 
 ## Contribuir
