@@ -235,7 +235,7 @@ página da [Comissão Nacional de Eleições](https://www.cne.pt/content/partido
 - [Iniciativa Liberal](https://iniciativaliberal.pt/)
 - [Partido Unido dos Reformados e Pensionistas](https://www.purp.pt/)
 - [Nós, Cidadãos!](http://noscidadaos.pt/)
-- [Partido Democrático Republicano](https://www.pdr.pt/)
+- [Alternativa Democrática Nacional](https://adn.com.pt/)
 - [Juntos pelo Povo](https://juntospelopovo.pt/)
 - [LIVRE](https://partidolivre.pt/)
 - [Movimento Alternativa Socialista](http://mas.org.pt/)
