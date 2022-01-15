@@ -15,6 +15,7 @@
 - [Projectos](#projectos)
 - [Redes Sociais](#redes-sociais)
 - [Vídeos](#vídeos)
+- [Eleições Legislativas 2022](#eleições-legislativas-2022)
 - [Diversos](#diversos)
 
 ## Bases de Dados
@@ -234,7 +235,7 @@ página da [Comissão Nacional de Eleições](https://www.cne.pt/content/partido
 - [Iniciativa Liberal](https://iniciativaliberal.pt/)
 - [Partido Unido dos Reformados e Pensionistas](https://www.purp.pt/)
 - [Nós, Cidadãos!](http://noscidadaos.pt/)
-- [Partido Democrático Republicano](https://www.pdr.pt/)
+- [Alternativa Democrática Nacional](https://adn.com.pt/)
 - [Juntos pelo Povo](https://juntospelopovo.pt/)
 - [LIVRE](https://partidolivre.pt/)
 - [Movimento Alternativa Socialista](http://mas.org.pt/)
@@ -359,6 +360,76 @@ página da [Comissão Nacional de Eleições](https://www.cne.pt/content/partido
 
 - [Jordan B Peterson - Português](https://www.youtube.com/c/JordanBPetersonPortugu%C3%AAs)
 
+## Eleições Legislativas 2022
+
+Mais informações podem ser encontradas no site da CNE:
+- [Eleições para a Assembleia da República 2022](https://www.cne.pt/content/eleicoes-para-assembleia-da-republica-2022)
+- [Campanha de esclarecimento cívico da CNE - Eleições Legislativas 2022](https://www.cne.pt/content/campanha-de-esclarecimento-civico-da-cne-eleicoes-legislativas-2022)
+
+### Programas Eleitorais
+
+A lista de programas eleitorais foi baseada na seguinte notícia: [Legislativas: boletins de voto chegam às 21 candidaturas | Eleições Legislativas 2022 | PÚBLICO](https://www.publico.pt/2021/12/23/politica/noticia/legislativas-boletins-voto-chegam-21-candidaturas-1989749).
+
+- [ADN](https://adn.com.pt/)
+- Aliança Democrática (PSD/CDS/PPM) apenas nos Açores
+- [Aliança](https://www.partidoalianca.pt/)
+- [BE](https://programa2022.bloco.org/)
+- [CDS](https://www.cdslegislativas2022.com/)
+- [Chega](https://partidochega.pt/programa-eleitoral-legislativas-2022/)
+- [Ergue-te](http://www.partidoergue-te.pt/programa-politico/)
+- [IL](https://iniciativaliberal.pt/legislativas-2022/programa-eleitoral/)
+- [JPP](https://juntospelopovo.pt/)
+- [Livre](https://partidolivre.pt/legislativas2022/#programa)
+- Madeira Primeiro (PSD/CDS) apenas na Madeira
+- [MAS](https://mas.org.pt/index.php/category/legislativas-2022/)
+- [MPT](https://mpt.pt/manifestoeleitoral2022/)
+- [Nós, Cidadãos!](https://noscidadaos.pt/o-nos-cidadaos/programa-politico/)
+- [PAN](https://pan.com.pt/eleicoes/eleicoes-legislativas-2022/programa-eleitoral-pan/)
+- [PCP](https://www.pcp.pt/compromisso-eleitoral-do-pcp-legislativas-2022)
+- [PCTP/MRPP](http://lutapopularonline.org/index.php/pais/104-politica-geral/2989-as-proximas-eleicoes-burguesas-de-dia-30-de-janeiro-a-intervencao-do-partido)
+- [PSD](https://www.psd.pt/pt/programa-eleitoral-2022)
+- [PTP](https://ptp-mudanca.webnode.pt/)
+- [RIR](https://partido-rir.pt/programa/)
+- [Volt Portugal](https://www.voltportugal.org/eleicoes_legislativas_2022)
+
+### Entrevistas Líderes Partidários
+
+- [BE - Catarina Martins](https://www.rtp.pt/play/p9596/e584989/eleicoes-legislativas-2022-entrevistas-lideres-partidarios)
+- [CDS - Francisco Rodrigues dos Santos](https://www.rtp.pt/play/p9596/e585870/eleicoes-legislativas-2022-entrevistas-lideres-partidarios)
+- [Chega - André Ventura](https://www.rtp.pt/play/p9596/e585994/eleicoes-legislativas-2022-entrevistas-lideres-partidarios)
+- [IL - João Cotrim de Figueiredo](https://www.rtp.pt/play/p9596/e585995/eleicoes-legislativas-2022-entrevistas-lideres-partidarios)
+- [Livre - Rui Tavares](https://www.rtp.pt/play/p9596/eleicoes-legislativas-2022-entrevistas-lideres-partidarios)
+- [PAN - Inês Sousa Real](https://www.rtp.pt/play/p9596/e584397/eleicoes-legislativas-2022-entrevistas-lideres-partidarios)
+- [PCP - Jerónimo de Sousa](https://www.rtp.pt/play/p9596/e585261/eleicoes-legislativas-2022-entrevistas-lideres-partidarios)
+- [PSD - Rui Rio](https://www.rtp.pt/play/p9596/e585997/eleicoes-legislativas-2022-entrevistas-lideres-partidarios)
+
+### Entrevistas Líderes Partidários (Rádio Observador)
+
+- [André Ventura “Sob Escuta”](https://youtu.be/-G26mRPeJn0)
+- [Francisco Rodrigues dos Santos “Sob Escuta”](https://youtu.be/9_HIkUcCpiA)
+- [Jerónimo de Sousa “Sob Escuta”](https://youtu.be/LS-PsUPwHNo)
+- [João Cotrim de Figueiredo “Sob Escuta”](https://youtu.be/nBqQU0oIEZM)
+- [Rui Tavares “Sob Escuta”](https://youtu.be/ke9uwml6YFY)
+
+### Debates
+
+| \ | BE | CDS | Chega | IL | Livre | PAN | PCP | PS | PSD |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| BE - Catarina Martins | - | - | - | - | - | - | - | - | - |
+| CDS - Francisco Rodrigues dos Santos | | - | - | - | - | - | - | - | - |
+| Chega - André Ventura | [SIC](https://www.rtp.pt/play/p9787/e589704/legislativas-2022-debates-sic-sic-noticias) | [CNN](https://www.rtp.pt/play/p9788/legislativas-2022-debates-tvi-cnn) | - | - | - | - | - | - | - |
+| IL - João Cotrim de Figueiredo | [SIC](https://www.rtp.pt/play/p9787/e590739/legislativas-2022-debates-sic-sic-noticias) | [RTP](https://www.rtp.pt/play/p9711/e590549/legislativas-2022-debates-rtp) | [RTP](https://www.rtp.pt/play/p9711/e591220/legislativas-2022-debates-rtp) | - | - | - | - | - | - |
+| Livre - Rui Tavares | [SIC](https://www.rtp.pt/play/p9787/e590217/legislativas-2022-debates-sic-sic-noticias) | | [CNN](https://www.rtp.pt/play/p9788/e590493/legislativas-2022-debates-tvi-cnn) | [SIC](https://www.rtp.pt/play/p9787/e592108/legislativas-2022-debates-sic-sic-noticias) | - | - | - | - | - |
+| PAN - Inês Sousa Real | [RTP](https://www.rtp.pt/play/p9711/e591427/legislativas-2022-debates-rtp) | [RTP](https://www.rtp.pt/play/p9711/e590201/legislativas-2022-debates-rtp) | | [SIC](https://www.rtp.pt/play/p9787/e591024/legislativas-2022-debates-sic-sic-noticias) | [SIC](https://www.rtp.pt/play/p9787/e591315/legislativas-2022-debates-sic-sic-noticias) | - | - | - | - |
+| PCP - Jerónimo de Sousa | [x](https://www.cdu.pt/2022/debates-eleitorais-nas-tv-desigualdade-e-discriminacao) | [x](https://www.cdu.pt/2022/debates-eleitorais-nas-tv-desigualdade-e-discriminacao) | [x](https://www.cdu.pt/2022/debates-eleitorais-nas-tv-desigualdade-e-discriminacao) | [x](https://www.cdu.pt/2022/debates-eleitorais-nas-tv-desigualdade-e-discriminacao) | [x](https://www.cdu.pt/2022/debates-eleitorais-nas-tv-desigualdade-e-discriminacao) | [x](https://www.cdu.pt/2022/debates-eleitorais-nas-tv-desigualdade-e-discriminacao) | - | - | - |
+| PS - António Costa | [RTP](https://www.rtp.pt/play/p9711/legislativas-2022-debates-rtp) | [SIC](https://www.rtp.pt/play/p9787/e591173/legislativas-2022-debates-sic-sic-noticias) | [RTP](https://www.rtp.pt/play/p9711/e590727/legislativas-2022-debates-rtp) | | [RTP](https://www.rtp.pt/play/p9711/e589677/legislativas-2022-debates-rtp) | [SIC](https://www.rtp.pt/play/p9787/e591173/legislativas-2022-debates-sic-sic-noticias) | [TVI](https://www.rtp.pt/play/p9788/e590216/legislativas-2022-debates-tvi-cnn) | - | - |
+| PSD - Rui Rio | [SIC](https://www.rtp.pt/play/p9787/e590491/legislativas-2022-debates-sic-sic-noticias) | [TVI](https://www.rtp.pt/play/p9788/e591023/legislativas-2022-debates-tvi-cnn) | [SIC](https://www.rtp.pt/play/p9787/e589982/legislativas-2022-debates-sic-sic-noticias) | [SIC](https://www.rtp.pt/play/p9787/e591245/legislativas-2022-debates-sic-sic-noticias) | [RTP](https://www.rtp.pt/play/p9711/e591101/legislativas-2022-debates-rtp) | | [SIC](https://www.rtp.pt/play/p9787/e592065/legislativas-2022-debates-sic-sic-noticias) | [RTP/SIC/TVI](https://www.rtp.pt/play/p9857/debates-legislativas-2022-antonio-costa-x-rui-rio) | - |
+
+### Debates (Rádio Observador)
+
+- [Rádio Observador - debate com os cabeças de lista de Lisboa](https://youtu.be/YiD9_cQqPLw)
+- [Rádio Observador - debate com os cabeças de lista do Porto](https://youtu.be/WyFqBtAfAzc)
+
 ## Diversos
 
 - [Assembleia da República](https://www.parlamento.pt/)
@@ -370,6 +441,7 @@ página da [Comissão Nacional de Eleições](https://www.cne.pt/content/partido
 - [Open Knowledge Portugal](https://okfn.org/network/portugal/)
 - [Date With Data](https://datewithdata.pt/)
 - [SoftwarePúblico.gov.pt](https://www.softwarepublico.gov.pt/)
+- [#paradetequeixar](http://www.paradetequeixar.pt/)
 
 - [A Federal Europe? The Party Trying to Unite Europe Further - TLDR News](https://youtu.be/tq0t16z1WV8)
 - [Palestras ao Bob](https://youtube.com/playlist?list=PLuYPO4REfHUIgrRPRYaPOnvxLwyRwl7nn)
