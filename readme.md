@@ -406,6 +406,7 @@ A lista de programas eleitorais foi baseada na seguinte notícia: [Legislativas:
 ### Entrevistas Líderes Partidários (Rádio Observador)
 
 - [André Ventura “Sob Escuta”](https://youtu.be/-G26mRPeJn0)
+- [António Costa "Sob Escuta"](https://youtu.be/7MnyqE1vBXg)
 - [Francisco Rodrigues dos Santos “Sob Escuta”](https://youtu.be/9_HIkUcCpiA)
 - [Jerónimo de Sousa “Sob Escuta”](https://youtu.be/LS-PsUPwHNo)
 - [João Cotrim de Figueiredo “Sob Escuta”](https://youtu.be/nBqQU0oIEZM)
@@ -428,7 +429,8 @@ A lista de programas eleitorais foi baseada na seguinte notícia: [Legislativas:
 ### Debate Líderes Partidários
 
 - Com Assento Parlamentar (RTP) [Parte 1](https://www.rtp.pt/play/p9864/debate-lideres-partidarios-com-assento-parlamentar-legislativas-2022) [Parte 2](https://www.rtp.pt/play/p9864/e592993/debate-lideres-partidarios-com-assento-parlamentar-legislativas-2022/1010044)
-- [Sem Assento Parlamentar (RTP)](https://www.rtp.pt/play/p9865/debate-lideres-partidarios-sem-assento-parlamentar-legislativas-2022)
+- Sem Assento Parlamentar (RTP) [Parte 1](https://www.rtp.pt/play/p9865/debate-lideres-partidarios-sem-assento-parlamentar-legislativas-2022) [Parte 2](https://www.rtp.pt/play/p9865/e593233/debate-lideres-partidarios-sem-assento-parlamentar-legislativas-2022/1010325)
+- [Debate Rádios](https://www.rtp.pt/play/p9890/eleicoes-legislativas-2022-debate-radios)
 
 ### Debates (Rádio Observador)
 
