@@ -331,6 +331,7 @@ página da [Comissão Nacional de Eleições](https://www.cne.pt/content/partido
 
 - [Polititank](https://polititank.pt/)
 - [A Cor do Dinheiro](https://www.youtube.com/channel/UCIfCVYzh4BoeRklgYcmVySA)
+- [PCS - Plataforma para o Crescimento Sustentável](https://www.crescimentosustentavel.org/)
 
 ## Redes Sociais
 
